@@ -35,6 +35,11 @@ But if you want the source code of the program, you can use the $\color{deepskyb
 
 <br>
 
+> [!IMPORTANT]
+> You must be connected to the Internet to use this program
+
+<br>
+
 <h3>If you like this program, please give the Star Project ❤🤗</h3>
 
 <br>

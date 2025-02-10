@@ -1,5 +1,7 @@
-# Translator-Windows-App
+<h1>$\color{deepskyblue}{Translator\ Windows\ App}$</h1>
 Translator Windows App Made with the Pytone Library Tkinter
+
+<br>
 
 <h1>$\color{deepskyblue}{What\ is\ the\ use\ of\ this\ project?}$</h1>
 

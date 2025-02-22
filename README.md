@@ -11,7 +11,7 @@ This program is a graphical translator written in Python and the Tkinter library
 
 <h1>$\color{deepskyblue}{Built\ with\ Language :}$</h1>
 
-![My Skills](https://skillicons.dev/icons?i=python)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
